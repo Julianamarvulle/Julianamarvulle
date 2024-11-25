@@ -1,0 +1,36 @@
+
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+
+h1{
+    color: rgb(215, 229, 250);
+   font-size: xx-large;}
+   font-family: "Roboto", serif;
+
+
+p{
+    color: red;
+    font-weight: 600;
+   
+
+
+}
+li{
+    color: bisque;
+
+}
+
+.robo{
+    color: chartreuse;
+}
+
+div{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 20px;
+}
